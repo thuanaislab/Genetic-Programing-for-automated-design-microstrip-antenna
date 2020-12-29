@@ -2,6 +2,12 @@
 Hybrid Genetic Programming with Accelerating Conjugate Direct Gradient Search for Automated Antenna Design
 
 # Set up
-- anaconda 
+- [naconda](https://www.anaconda.com/products/individual) 
 - geopandas==0.3.0
 - [pstool](https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)
+- HFSS 14.0
+- Create a folder HFSS_shared in C:/ and share it for everyone. The purpose is for parallelism computing
+# Running
+```
+python GP_main.py
+```
