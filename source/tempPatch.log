@@ -1,0 +1,16 @@
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: C:/Users/DELL/Desktop/WORK/LAB_WORK/ThuanGP code/GP creates shape/PythonGPcode/tempPatch.vbs
+Starting Batch Run: 12:11:35 AM  Oct 23, 2018
+Running as user: DESKTOP-K6646BG\DELL
+Temp directory: C:\Users\DELL\AppData\Local\Temp
+Project directory: C:\Users\DELL\Documents\Ansoft
+[warning] Script Error (Code 80070203) in file:  C:/Users/DELL/Desktop/WORK/LAB_WORK/ThuanGP code/GP creates shape/PythonGPcode/tempPatch.vbs
+Description: Selections: At least two parts should be selected for boolean operation.
+Invalid blank object.
+
+Line(64):  "oEditor.Unite  _"
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
