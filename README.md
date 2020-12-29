@@ -7,7 +7,7 @@ Hybrid Genetic Programming with Accelerating Conjugate Direct Gradient Search fo
 - [pstool](https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)
 - HFSS 14.0
 - Create a folder HFSS_shared in C:/ and share it for everyone. The purpose is for parallelism computing
-I make a detail guide for installation. You can file it in [here](https://youtu.be/tBIlQSbTv5U)
+- I make a detail guide for installation. You can file it in [here](https://youtu.be/tBIlQSbTv5U)
 # Running
 ```
 python GP_main.py
