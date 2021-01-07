@@ -5,7 +5,7 @@
 #                   - convertFullBluetree_to_oriBluetree()
 #                   - get_val_frombluetree()
 #                   - addsub3()
-# bachthuan03111997@gmail.com - 2018
+# bachthuan03111997@gmail.com
 import random
 import geopandas as gpd
 import Terminalset as ts
