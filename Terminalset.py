@@ -17,8 +17,7 @@
 ##                                                                                   -- Rotate() 
 ##                                                                                   -- changeMaxXY()       
 ##########################################################################################################################################
-# linh.homanh@hust.edu.vn - 2018
-# bachthuan03111997@gmail.com - 2018
+# bachthuan03111997@gmail.com 
 import numpy as np
 import random
 from shapely.geometry import Polygon
