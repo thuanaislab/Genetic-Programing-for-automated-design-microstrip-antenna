@@ -2,7 +2,7 @@
 #						include:- crossover(pop,proRed,prosubBlue,proBlue,proSubstrate,proGensub,proGenpat)
 #								- mutaion(pop,proRed,prosubBlue,proBlue,proSubstrate,proGensub,proGenpat)
 #								- update_tree_after_GP_operation(GP_prog,nodeID,typeChange) # to help two above functions.
-# bachthuan03111997@gmail.com - 2018
+# bachthuan03111997@gmail.com
 import Helper as hp
 import copy
 import initGlobal as init 
