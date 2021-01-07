@@ -2,7 +2,7 @@
 Hybrid Genetic Programming with Accelerating Conjugate Direct Gradient Search for Automated Antenna Design
 
 <p align="center">
-  <caption style="text-align:right">My savings</caption>
+  <caption style="text-align:center">My savings</caption>
   <img src="https://github.com/thuanaislab/Genetic-Programing-for-automated-design-microstrip-antenna/blob/main/images/GP_lowlevel.png" width="430" title="hover text">
 <p>
 
