@@ -1,4 +1,4 @@
-# thuan.bb.hust@gmail.com - 2018
+# thuan.bb.hust@gmail.com 
 ##############################################################################################################
 ########## This file defines some functions to help GP processs.                                            ##
 ########## Functions included in this file are:                                                             ##
