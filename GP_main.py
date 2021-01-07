@@ -1,4 +1,4 @@
-# bachthuan03111997@gmail.com - 2018
+# bachthuan03111997@gmail.com
 
 import initGlobal as init
 
