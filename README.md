@@ -1,8 +1,8 @@
 # Genetic-Programing-for-automated-design-microstrip-antenna
 Hybrid Genetic Programming with Accelerating Conjugate Direct Gradient Search for Automated Antenna Design
-<p align="center">
+<br align="center">
   <img src="https://github.com/thuanaislab/Genetic-Programing-for-automated-design-microstrip-antenna/blob/main/images/GP_lowlevel.png" width="350" title="hover text">
-</p>
+<br>
 # Set up
 - [anaconda](https://www.anaconda.com/products/individual) 
 - geopandas==0.3.0
