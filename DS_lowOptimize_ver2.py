@@ -1,4 +1,4 @@
-# thuan.bb.hust@gmail.com - 2019
+# thuan.bb.hust@gmail.com 
 import Helper as hp 
 import numpy as np
 import os
