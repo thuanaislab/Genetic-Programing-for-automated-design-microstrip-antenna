@@ -12,17 +12,17 @@ Hybrid Genetic Programming with Accelerating Conjugate Direct Gradient Search fo
 ## Genetic Programming Architecture
 
 <p align="center">
-  <img src="https://github.com/thuanaislab/Genetic-Programing-for-automated-design-microstrip-antenna/blob/main/images/gp1.png" width="450" title="hover text">
+  <img src="https://github.com/thuanaislab/Genetic-Programing-for-automated-design-microstrip-antenna/blob/main/images/gp1.png" width="550" title="hover text">
 <p>
 
 ## Some Interesting Results Designed by Our Tool 
 
 <p align="center">
-  <img src="https://github.com/thuanaislab/Genetic-Programing-for-automated-design-microstrip-antenna/blob/main/images/result1.png" width="500" title="hover text">
+  <img src="https://github.com/thuanaislab/Genetic-Programing-for-automated-design-microstrip-antenna/blob/main/images/result1.png" width="700" title="hover text">
 <p>
 
 <p align="center">
-  <img src="https://github.com/thuanaislab/Genetic-Programing-for-automated-design-microstrip-antenna/blob/main/images/result2.png" width="500" title="hover text">
+  <img src="https://github.com/thuanaislab/Genetic-Programing-for-automated-design-microstrip-antenna/blob/main/images/result2.png" width="700" title="hover text">
 <p>
 
 # Set up
