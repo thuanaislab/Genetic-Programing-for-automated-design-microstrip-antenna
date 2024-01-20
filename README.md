@@ -22,3 +22,15 @@ Hybrid Genetic Programming with Accelerating Conjugate Direct Gradient Search fo
 ```
 python GP_main.py
 ```
+## BibTex Citation 
+If you find this project useful, please cite:
+```
+@inproceedings{bach2019evolved,
+  title={Evolved design of microstrip patch antenna by genetic programming},
+  author={Bach, Thuan Bui and Manh, Linh Ho and Khac, Kiem Nguyen and Beccaria, Michele and Massaccesi, Andrea and Zich, Riccardo},
+  booktitle={2019 International Conference on Electromagnetics in Advanced Applications (ICEAA)},
+  pages={1393--1397},
+  year={2019},
+  organization={IEEE}
+}
+```
