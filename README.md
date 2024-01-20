@@ -9,10 +9,21 @@ Hybrid Genetic Programming with Accelerating Conjugate Direct Gradient Search fo
   <img src="https://github.com/thuanaislab/Genetic-Programing-for-automated-design-microstrip-antenna/blob/main/images/smallsize_antenna.PNG" width="350" title="hover text">
 <p>
 
+## Genetic Programming Architecture
+
 <p align="center">
   <img src="https://github.com/thuanaislab/Genetic-Programing-for-automated-design-microstrip-antenna/blob/main/images/gp1.png" width="350" title="hover text">
 <p>
 
+## Some Interesting Results Design by Our tools 
+
+<p align="center">
+  <img src="https://github.com/thuanaislab/Genetic-Programing-for-automated-design-microstrip-antenna/blob/main/images/result1.png" width="350" title="hover text">
+<p>
+
+<p align="center">
+  <img src="https://github.com/thuanaislab/Genetic-Programing-for-automated-design-microstrip-antenna/blob/main/images/result2.png" width="350" title="hover text">
+<p>
 
 # Set up
 - [anaconda](https://www.anaconda.com/products/individual) 
